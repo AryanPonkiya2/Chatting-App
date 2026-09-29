@@ -1,0 +1,19 @@
+A~hello
+B~hiiieee
+A~how are you?
+B~i'm fine
+a~aashvin
+A~hello 
+B~how are you 
+A~hello
+B~hiii
+a~hiiieee
+b~hello
+a~how are you?
+A~hello
+B~hieeee
+john~hello lisa
+lisa~hello john
+john~how are you?
+lisa~I'm fine, what about you?
+john~going well
